@@ -4,7 +4,6 @@
 
 **Shared-State Local Translations for Training-Free Voice Conversion**
 
-Training-free one-shot voice conversion with shared acoustic-state discovery and local feature-space translation.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
