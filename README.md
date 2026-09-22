@@ -342,6 +342,5 @@ For implementation questions, reproducibility problems, or bug reports, please u
 
 <div align="center">
 
-**StateVC** · Shared states · Local translations · Training-free voice conversion
 
 </div>
