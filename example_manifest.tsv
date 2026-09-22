@@ -1,0 +1,2 @@
+source	reference	output
+/path/to/source.wav	/path/to/reference.wav	outputs/example.wav
